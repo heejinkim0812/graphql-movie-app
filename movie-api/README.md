@@ -1,11 +1,9 @@
 # Movie API
 
-movie API with Graphql  
-used **"NodeJS"**, **"GraphQL"**, **"GraphQL Yoga"**
+movie API with Graphql.  
+useing **"NodeJS"**, **"GraphQL"**, **"GraphQL Yoga"**
 
-</br>
-
-## Theory
+## Theory📑
 
 - Types
 - Schema
